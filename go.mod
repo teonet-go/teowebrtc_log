@@ -1,3 +1,3 @@
 module github.com/teonet-go/teowebrtc_log
 
-go 1.20
+go 1.23.4
